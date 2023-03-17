@@ -1,4 +1,4 @@
-import CurrentLocation from "./CurrentLocation.js";
+import CurrentLocation from "./currentLocation.js";
 import {
   setPlaceholderText,
   addSpiner,
